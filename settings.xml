@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDetails>
+    <ServerName>(localdb)\MYSERVER</ServerName>    
+    <Mappings></Mappings>
+    <VariableMappings></VariableMappings>
+    <DictionaryVersion>ColdFusion2018</DictionaryVersion>
+    <CFCMappings></CFCMappings>
+</ResourceDetails>

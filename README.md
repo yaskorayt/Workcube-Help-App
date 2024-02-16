@@ -61,4 +61,3 @@ Yardım çağrısına atanan gönüllü ve çağrı sahibi arasındaki mesafeyi 
 
 
 Bu dökümantasyon, Workcube Help App Projesi'nin kullanımını ve işleyişini detaylı bir şekilde açıklamaktadır.
-
